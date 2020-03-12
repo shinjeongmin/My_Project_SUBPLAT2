@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 8ea07f47585b3df4cb9a2d7f6e0b5d19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4108546572373561769
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_0
+  - first:
+      213: 8188271532122979736
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_1
+  - first:
+      213: -3568691078184538035
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_2
+  - first:
+      213: 1516124194278031688
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_3
+  - first:
+      213: 6468549419330521893
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_4
+  - first:
+      213: -5920037791279215117
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_5
+  - first:
+      213: -278985945062799393
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_6
+  - first:
+      213: 8307760550197896931
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_7
+  - first:
+      213: 6113984820332617127
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_8
+  - first:
+      213: 9093151517341675326
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_9
+  - first:
+      213: 2400346781461266752
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_10
+  - first:
+      213: -8197876863719617602
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_11
+  - first:
+      213: 8628852083733183457
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_12
+  - first:
+      213: 3195581110088133052
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_13
+  - first:
+      213: 669630485992966886
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_14
+  - first:
+      213: -1873922753460990563
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_15
+  - first:
+      213: 9198687432893812633
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_16
+  - first:
+      213: -1831437015865227572
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_17
+  - first:
+      213: 2045829578926460930
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_18
+  - first:
+      213: -5091818470914084728
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_19
+  - first:
+      213: -142726181815037543
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_20
+  - first:
+      213: 6526791019999958446
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_21
+  - first:
+      213: 5909937085430405013
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_22
+  - first:
+      213: -3173188297996709395
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_23
+  - first:
+      213: -2455965456650965329
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_24
+  - first:
+      213: 299258824537923928
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_25
+  - first:
+      213: -5514007890001259130
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_26
+  - first:
+      213: -4147015566475229180
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_27
+  - first:
+      213: 750234126926897633
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_28
+  - first:
+      213: 2251365961469815679
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_29
+  - first:
+      213: 4465755595092004934
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_30
+  - first:
+      213: -7664072671068546822
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_31
+  - first:
+      213: 8434562365250901176
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_32
+  - first:
+      213: 357875191775669041
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_33
+  - first:
+      213: 8006940921666639693
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_34
+  - first:
+      213: -2559523707561832871
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_35
+  - first:
+      213: -4302831464287697781
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_36
+  - first:
+      213: -8489132496940095346
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_37
+  - first:
+      213: 293033366865669443
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_38
+  - first:
+      213: 1785265980096736337
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_39
+  - first:
+      213: 2376529860507827206
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_40
+  - first:
+      213: 2507756542539801835
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_41
+  - first:
+      213: 8757025318105128474
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_42
+  - first:
+      213: -1231196571484795784
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_43
+  - first:
+      213: 4146295047142708390
+    second: STAGE1_Object_Puzzle_Modified_LRreversion_44
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_0
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 458
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1997de65d740930800000000000000
+      internalID: 4108546572373561769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_1
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 446
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d32ac339592a170800000000000000
+      internalID: 8188271532122979736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_2
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 446
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4074b34f56797ec0800000000000000
+      internalID: -3568691078184538035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_3
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 446
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84141530cea5a0510800000000000000
+      internalID: 1516124194278031688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_4
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 446
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b414fcc67e4c950800000000000000
+      internalID: 6468549419330521893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_5
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 446
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd0ae99efcc7dda0800000000000000
+      internalID: -5920037791279215117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_6
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 446
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd78437d2c7d02cf0800000000000000
+      internalID: -278985945062799393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_7
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 424
+        width: 105
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6ac8934381b4370800000000000000
+      internalID: 8307760550197896931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_8
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 420
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad5e020dcc39d450800000000000000
+      internalID: 6113984820332617127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_9
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 376
+        width: 115
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f64ff902d513e70800000000000000
+      internalID: 9093151517341675326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_10
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 376
+        width: 118
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04140ce1eaebf4120800000000000000
+      internalID: 2400346781461266752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_11
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 376
+        width: 114
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb49993d6a4b3e80800000000000000
+      internalID: -8197876863719617602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_12
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 376
+        width: 109
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb3e46a047dfb770800000000000000
+      internalID: 8628852083733183457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_13
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 376
+        width: 107
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb960c5b61cf85c20800000000000000
+      internalID: 3195581110088133052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_14
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 356
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea026011610b4900800000000000000
+      internalID: 669630485992966886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_15
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 356
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d8f672f2d7ef5e0800000000000000
+      internalID: -1873922753460990563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_16
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 356
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f4c75cb7d48af70800000000000000
+      internalID: 9198687432893812633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_17
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 324
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc60ad8ccbd6596e0800000000000000
+      internalID: -1831437015865227572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_18
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 324
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20016eaa92f346c10800000000000000
+      internalID: 2045829578926460930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_19
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 324
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880b46c041a3659b0800000000000000
+      internalID: -5091818470914084728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_20
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 324
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99154c83b4fe40ef0800000000000000
+      internalID: -142726181815037543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_21
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 324
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea59e4e2ad1d39a50800000000000000
+      internalID: 6526791019999958446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_22
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 324
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5979cfd8770540250800000000000000
+      internalID: 5909937085430405013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_23
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 324
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1da742e0296f3d0800000000000000
+      internalID: -3173188297996709395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_24
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 324
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae60bfed68aaedd0800000000000000
+      internalID: -2455965456650965329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_25
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 324
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851eb7cb05e272400800000000000000
+      internalID: 299258824537923928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_26
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 324
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68516cbd90f4a73b0800000000000000
+      internalID: -5514007890001259130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_27
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 324
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4088a3a6057d276c0800000000000000
+      internalID: -4147015566475229180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_28
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 324
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e16ad9a6fd596a00800000000000000
+      internalID: 750234126926897633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_29
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 324
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b60d8e9657e3f10800000000000000
+      internalID: 2251365961469815679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_30
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 324
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6401c2b9d0d89fd30800000000000000
+      internalID: 4465755595092004934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_31
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 324
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af81e2cf28eb3a590800000000000000
+      internalID: -7664072671068546822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_32
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 267
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b498a078c59d0570800000000000000
+      internalID: 8434562365250901176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_33
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 264
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ba6bf379d67f400800000000000000
+      internalID: 357875191775669041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_34
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 296
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d479a7d785e5e1f60800000000000000
+      internalID: 8006940921666639693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_35
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 244
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e0698bfbeba7cd0800000000000000
+      internalID: -2559523707561832871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_36
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 244
+        width: 19
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8402c2a4954944c0800000000000000
+      internalID: -4302831464287697781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_37
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 244
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8829aca8fa803a80800000000000000
+      internalID: -8489132496940095346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_38
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 289
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d6d5b6b40111400800000000000000
+      internalID: 293033366865669443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_39
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 286
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c614d33f986c810800000000000000
+      internalID: 1785265980096736337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_40
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 257
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c7da511512bf020800000000000000
+      internalID: 2376529860507827206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_41
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 269
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be42f3de9475dc220800000000000000
+      internalID: 2507756542539801835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_42
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 244
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e12ce4124378970800000000000000
+      internalID: 8757025318105128474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_43
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 244
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c48fbcd39e9eee0800000000000000
+      internalID: -1231196571484795784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: STAGE1_Object_Puzzle_Modified_LRreversion_44
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 244
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a417ea90699a8930800000000000000
+      internalID: 4146295047142708390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
